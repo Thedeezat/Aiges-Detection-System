@@ -1,0 +1,4 @@
+torch
+opencv-python
+onvif-zeep
+yolov5
