@@ -1,0 +1,2 @@
+[2024-10-21 15:30:22] Weapon Detected: bear (Confidence: 0.56)
+[2024-10-21 15:30:48] Weapon Detected: bear (Confidence: 0.28)

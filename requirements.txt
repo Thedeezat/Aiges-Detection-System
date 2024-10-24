@@ -1,4 +1,8 @@
 torch
+torchvision
 opencv-python
-onvif-zeep
 yolov5
+onvif-zeep
+matplotlib
+pyrealsense2
+# oafd oubq vziv aqub
