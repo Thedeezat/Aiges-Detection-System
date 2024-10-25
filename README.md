@@ -13,6 +13,6 @@ This project implements a Real-Time Physical Threat Detection System that levera
 
 To set up the project and run it, ensure you have the following installed:
 
-Python 3.8+
-OpenCV (for video processing)
-RTSP-enabled IP/CCTV Camera (for testing)
+- Python 3.8+
+- OpenCV (for video processing)
+- RTSP-enabled IP/CCTV Camera (for testing)
