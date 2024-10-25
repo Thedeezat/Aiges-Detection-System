@@ -1,10 +1,4 @@
 weapon_labels = [
-    # TEST OBJECTS:
-
-    # 'person',
-    # 'apple',
-    # 'bear',
-
     'knife',
     'gun',
     'firearm',
@@ -15,7 +9,6 @@ weapon_labels = [
     'sword',
     'machete',
     'dagger',
-    'bat',
     'club',
     'crossbow',
     'brass knuckles',

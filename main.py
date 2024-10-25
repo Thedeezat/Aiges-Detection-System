@@ -117,12 +117,12 @@ def capture_rtsp_stream_with_threat_detection(rtsp_url, capture_delay=10):
 
 
 # ------------------- Main Execution -------------------
-if __name__ == "__main__":
-    # Camera credentials
-    # camera_ip = '192.168.1.10'
-    # camera_port = 80
-    # username = 'admin'
-    # password = 'password'
+# if __name__ == "__main__":
+#     # Camera credentials
+#     # camera_ip = '192.168.1.10'
+#     # camera_port = 80
+#     # username = 'admin'
+#     # password = 'password'
 
-    rtsp_url = 'rtsp://rtspstream:7ef241fbeb47fa94786eaeee49523e8b@zephyr.rtsp.stream/movie'
-    capture_rtsp_stream_with_threat_detection(rtsp_url)
+#     rtsp_url = 'rtsp://rtspstream:7ef241fbeb47fa94786eaeee49523e8b@zephyr.rtsp.stream/movie'
+#     capture_rtsp_stream_with_threat_detection(rtsp_url)
